@@ -1,8 +1,5 @@
 # Airline-Reservation-System
 All-in-one Java Airline Reservation and Management System with both GUI and console interfaces. Features include flight search, booking, cancellations, real-time updates, passenger management, and detailed CSV report exports.
-# Air Management System
-
-A Java-based Airline Reservation System with both **Graphical User Interface (GUI)** and **Console Interface**. The system allows users to search for flights, book tickets, view and cancel reservations, and generate reports. Real-time flight data is fetched using the AviationStack API.
 
 ## Features
 
